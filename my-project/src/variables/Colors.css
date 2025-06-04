@@ -1,0 +1,23 @@
+/* Espaço para variaveis de cores */
+
+:root {
+    --background-primary: var(--color-primary);
+    --background-secondary: var(--color-secondary);
+    --background-footer: #C13F27;
+
+    /* Cores da palheta */
+    --color-primary: #F6F6F6;
+    --color-secondary: #C13F27;
+    --color-tertiary: #FBE9DD;
+    --color-spare: #2F4858;
+
+    /* Cores dos Botões Custom */
+    --color-button-header: #dadada;
+
+
+    /* Cores das fontes */
+    --font-primary: #56413E;
+    --font-secondary: #FFF1D7;
+    --font-black: #000;
+
+}

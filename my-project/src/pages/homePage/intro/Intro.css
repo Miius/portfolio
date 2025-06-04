@@ -1,0 +1,220 @@
+.section-home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    padding: 3rem;
+}
+
+.panel-home {
+    display: flex;
+    justify-content: space-between;
+    gap: 110px;
+    width: 100%;
+}
+
+.left-home {
+    margin-top: 80px;
+    margin-left: 300px;
+}
+
+.text-profissional-home {
+    font-size: 32px;
+    font-weight: 600;
+    margin: 0px;
+    color: var(--color-secondary);
+}
+
+.text-name-home {
+    color: var(--font-black);
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    font-size: 48px;
+    margin-top: 12px;
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+
+.text-profile-home {
+    font-size: 24px;
+    text-align: justify;
+    width: 700px;
+    color: #626262;
+}
+
+.buttons-home {
+    display: flex;
+}
+
+.redeSocial-home {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-left: 15px;
+}
+
+.right-home {
+    display: flex;
+    flex-direction: column;
+}
+
+.languageSelector-home {
+    margin-top: 10px;
+    align-self: flex-end;
+}
+
+.image-home {
+  position: absolute;
+  top: 0px;
+  right: 0;
+  width: 900px;
+  height: 780px;
+  z-index: -1; 
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.foreground-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+/* Telas entre 1300px e 1900px */
+@media (max-width: 1900px) and (min-width: 1301px) {
+    .section-home {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        position: relative;
+        padding: 3rem;
+    }
+
+    .panel-home {
+        display: flex;
+        justify-content: space-between;
+        gap: 110px;
+        width: 100%;
+    }
+
+    .left-home {
+        margin-top: 80px;
+        margin-left: 0px;
+    }
+
+    .text-profissional-home {
+        font-size: 24px;
+        font-weight: 600;
+        margin: 0px;
+        color: var(--color-secondary);
+    }
+
+    .text-name-home {
+        color: var(--font-black);
+        font-family: 'Georgia', 'Times New Roman', Times, serif;
+        font-size: 38px;
+        margin-top: 12px;
+        margin-bottom: 5px;
+        font-weight: 500;
+    }
+
+    .text-profile-home {
+        font-size: 18px;
+        width: 500px;
+        color: #626262;
+    }
+
+    .buttons-home {
+        display: flex;
+    }
+
+    .redeSocial-home {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+        margin-left: 15px;
+    }
+
+    .right-home {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .languageSelector-home {
+        margin-top: 10px;
+        align-self: flex-end;
+    }
+
+    .image-home {
+        width: 650px;
+        height: 700px;
+    }
+}
+
+/* Telas entre 768px e 1300px*/
+@media (max-width: 1300px) and (min-width: 769px) {
+    .image-home {
+        width: 400px;
+        height: 500px;
+    }
+}
+
+/* Estilos para Mobile */
+@media (max-width: 768px) {
+
+    .section-home {
+        padding-top: 65px;
+    }
+    
+    .panel-home {
+        display: flex;
+        justify-content: center;
+        flex-direction: column-reverse;
+        gap: 0px;
+        
+    }
+
+    .left-home {
+        margin-left: 25px;
+        margin-right: 25px;
+    }
+    
+    .text-name-home {
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    
+    .text-profissional-home {
+        font-size: 42px;
+        width: 300px;
+    }
+    
+    .right-home {
+        display: flex;
+        flex-direction: column;
+        margin-left: 25px;
+        margin-right: 25px;
+        align-items: center;
+    }
+    
+    .languageSelector-home {
+        margin-top: 10px;
+        align-self: flex-end;
+    }
+    
+    .image-home {
+        position: relative;
+        width: 300px;
+        height: 400px;
+        margin-top: 20px;
+    }
+    
+    .foreground-image {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 2;
+        width: 220px;
+        height: auto;
+    }
+}
