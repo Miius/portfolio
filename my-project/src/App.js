@@ -7,8 +7,13 @@ import ScrollAuto from "./components/buttons/scrollToTop/ScrollAuto";
 import LoadingAnimated from "./components/loading/LoadingAnimated";
 import Header from "./components/header/Header";
 import ButtonScroll from "./components/buttons/scrollToTop/ButtonScroll";
-import ProjectsPage from "./pages/projectsPage/Projects";
+import ProjectsPage from "./pages/projectsPage/ProjectsPage";
 import Intro from "./pages/homePage/intro/Intro";
+import Project from "./pages/homePage/project/Project";
+import About from "./pages/homePage/about/About";
+import Experience from "./pages/homePage/experience/Experience";
+import Footer from "./components/footer/Footer";
+import Contact from "./pages/homePage/contact/Contact";
 
 function App() {
   const [loading, setLoading] = useState(true);
@@ -52,8 +57,13 @@ function MainContent() {
           path="/"
           element={
             <div className="main-content">
-              <ButtonScroll/>
+              <ButtonScroll />
               <Intro />
+              <Project />
+              <About />
+              <Experience />
+              <Contact />
+              <Footer />
             </div>
           }
         />

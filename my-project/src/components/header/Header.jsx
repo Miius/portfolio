@@ -9,6 +9,7 @@ const Header = () => {
     const [menuOpen, setMenuOpen] = useState(false);
     const [isMobile, setIsMobile] = useState(window.innerWidth <= 768);
     const [scrolled, setScrolled] = useState(false);
+    const isPortfolioPage = window.location.pathname === '/portfolio';
 
     //Lida com resize da tela
     useEffect(() => {
@@ -49,7 +50,7 @@ const Header = () => {
     };
 
     return (
-        <header className={`header ${scrolled ? 'scrolled' : ''}`}>
+        <header className={`header ${!isPortfolioPage ? 'header-solid' : (scrolled ? 'scrolled' : '')}`}>
             <a href="/portfolio" className="header-logo">Miius</a>
 
             {isMobile ? (

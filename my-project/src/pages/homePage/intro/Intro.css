@@ -3,7 +3,7 @@
     flex-direction: column;
     align-items: center;
     position: relative;
-    padding: 3rem;
+    padding: 3rem 5rem;
 }
 
 .panel-home {
@@ -11,6 +11,7 @@
     justify-content: space-between;
     gap: 110px;
     width: 100%;
+    margin-top: 10px;
 }
 
 .left-home {
@@ -41,6 +42,14 @@
     color: #626262;
 }
 
+.text-profile-home-extra {
+    font-size: 16px;
+    text-align: justify;
+    font-weight: 600;
+    width: 700px;
+    color: #4b4b4b;
+}
+
 .buttons-home {
     display: flex;
 }
@@ -66,8 +75,8 @@
   position: absolute;
   top: 0px;
   right: 0;
-  width: 900px;
-  height: 780px;
+  width: 700px;
+  height: 680px;
   z-index: -1; 
   pointer-events: none;
   overflow: hidden;
@@ -86,7 +95,7 @@
         flex-direction: column;
         align-items: center;
         position: relative;
-        padding: 3rem;
+        padding: 3rem 5rem;
     }
 
     .panel-home {
@@ -123,6 +132,14 @@
         color: #626262;
     }
 
+    .text-profile-home-extra {
+        font-size: 16px;
+        text-align: justify;
+        font-weight: 600;
+        width: 500px;
+        color: #4b4b4b;
+    }
+
     .buttons-home {
         display: flex;
     }
@@ -152,17 +169,8 @@
 
 /* Telas entre 768px e 1300px*/
 @media (max-width: 1300px) and (min-width: 769px) {
-    .image-home {
-        width: 400px;
-        height: 500px;
-    }
-}
-
-/* Estilos para Mobile */
-@media (max-width: 768px) {
-
     .section-home {
-        padding-top: 65px;
+        padding: 3rem 1.5rem;
     }
     
     .panel-home {
@@ -174,44 +182,125 @@
     }
 
     .left-home {
-        margin-left: 25px;
-        margin-right: 25px;
-    }
-    
-    .text-name-home {
-        font-size: 18px;
-        margin-top: 20px;
+        margin: 0;
     }
     
     .text-profissional-home {
-        font-size: 42px;
-        width: 300px;
+        font-size: 24px;
+        width: auto;
+    }
+
+    .text-name-home {
+        font-size: 18px;
+        margin-top: 12px;
+    }
+
+    .text-profile-home {
+        font-size: 18px;
+        width: 80%;
+    }
+
+    .text-profile-home-extra {
+        font-size: 15px;
+        width: 80%;
     }
     
     .right-home {
         display: flex;
-        flex-direction: column;
-        margin-left: 25px;
-        margin-right: 25px;
-        align-items: center;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: space-between;
+        margin: -0.6rem -1.5rem 0rem -1.5rem;
     }
     
     .languageSelector-home {
-        margin-top: 10px;
-        align-self: flex-end;
+        margin-top: 25px;
+        margin-left: 1.5rem;
+        align-self: flex-start;
     }
     
     .image-home {
         position: relative;
-        width: 300px;
-        height: 400px;
-        margin-top: 20px;
+        width: 400px;
+        height: 290px;
+        margin: 0;
     }
     
     .foreground-image {
         position: absolute;
         top: 50%;
-        left: 50%;
+        left: 65%;
+        transform: translate(-50%, -50%);
+        z-index: 2;
+        width: 320px;
+        height: auto;
+    }
+}
+
+/* Estilos para Mobile */
+@media (max-width: 768px) {
+
+    .section-home {
+        padding: 3rem 1.5rem;
+    }
+    
+    .panel-home {
+        display: flex;
+        justify-content: center;
+        flex-direction: column-reverse;
+        gap: 0px;
+        
+    }
+
+    .left-home {
+        margin: 0;
+    }
+    
+    .text-profissional-home {
+        font-size: 22px;
+        width: auto;
+    }
+
+    .text-name-home {
+        font-size: 16px;
+        margin-top: 12px;
+    }
+
+    .text-profile-home {
+        font-size: 16px;
+        width: auto;
+    }
+
+    .text-profile-home-extra {
+        font-size: 13px;
+        width: auto;
+    }
+    
+    .right-home {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: space-between;
+        margin: -0.6rem -1.5rem 0rem -1.5rem;
+    }
+    
+    .languageSelector-home {
+        margin-top: 25px;
+        margin-left: 1rem;
+        align-self: flex-start;
+    }
+    
+    .image-home {
+        position: relative;
+        width: 300px;
+        height: 230px;
+        margin: 0;
+    }
+    
+    .foreground-image {
+        position: absolute;
+        top: 50%;
+        left: 65%;
         transform: translate(-50%, -50%);
         z-index: 2;
         width: 220px;

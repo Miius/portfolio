@@ -55,9 +55,41 @@
     height: 14px;
 }
 
-@media (max-width: 768px) {
-
+/* Telas entre 768px e 1300px*/
+@media (max-width: 1300px) and (min-width: 769px) {
     .dropdown-menu {
         z-index: 5;
+    }
+
+    .selected-language {
+        color: var(--background-secondary);
+        border: 1px solid var(--background-secondary);
+    }
+    
+    .dropdown-menu {
+        background: var(--background-secondary);
+    }
+    
+    .dropdown-item {
+        color: var(--background-primary);
+    }
+}
+
+@media (max-width: 768px) {
+    .dropdown-menu {
+        z-index: 5;
+    }
+
+    .selected-language {
+        color: var(--background-secondary);
+        border: 1px solid var(--background-secondary);
+    }
+    
+    .dropdown-menu {
+        background: var(--background-secondary);
+    }
+    
+    .dropdown-item {
+        color: var(--background-primary);
     }
 }

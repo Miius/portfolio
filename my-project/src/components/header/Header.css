@@ -10,7 +10,11 @@
     background-color: transparent;
     z-index: 10;
     box-sizing: border-box;
-    padding: 0rem 3rem 0rem 3rem;
+    padding: 0rem 5rem 0rem 5rem;
+}
+
+.header-solid {
+    background-color: var(--background-secondary);
 }
 
 .header.scrolled {
@@ -18,6 +22,10 @@
 }
 
 .header.scrolled .header-logo {
+    color: var(--background-primary);
+}
+
+.header-solid .header-logo {
     color: var(--background-primary);
 }
 
@@ -70,19 +78,22 @@ ul {
     color: var(--color-secondary);
 }
 
-/* Estilos para Mobile */
-@media (max-width: 768px) {
+/* Telas entre 768px e 1300px*/
+@media (max-width: 1300px) and (min-width: 769px) {
     .header {
         margin-top: 0px;
+        padding: 0 1.5rem;
+        background-color: var(--color-secondary);
     }
 
     .header-logo {
-        margin-left: 20px;
+        margin: 0;
+        color: var(--color-primary);
     }
 
     .menu-toggle {
         display: block;
-        margin-right: 10px;
+        margin: 0;
         color: var(--color-primary);
     }
 
@@ -120,7 +131,69 @@ ul {
         width: 100%;
         background: none;
         border: none;
-        color: var(--color-secondary);
+        color: var(--color-primary);
+        transition: background 0.3s;
+    }
+
+    .separate-option {
+        border-bottom: 1px solid var(--color-secondary);
+    }
+}
+
+/* Estilos para Mobile */
+@media (max-width: 768px) {
+    .header {
+        margin-top: 0px;
+        padding: 0 1rem;
+        background-color: var(--color-secondary);
+    }
+
+    .header-logo {
+        margin: 0;
+        color: var(--color-primary);
+    }
+
+    .menu-toggle {
+        display: block;
+        margin: 0;
+        color: var(--color-primary);
+    }
+
+    /* Menu dropdown animado */
+    .header-nav {
+        position: absolute;
+        top: 55px;
+        right: 0px;
+        width: 135px;
+        background-color: #202020;
+        overflow: hidden;
+        opacity: 0;
+        transform: scaleY(0);
+        transform-origin: top;
+        transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+    }
+
+    .header-nav.open {
+        opacity: 1;
+        transform: scaleY(1);
+        margin-top: 5px;
+        z-index: 100;
+    }
+
+    .header-nav ul {
+        flex-direction: column;
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .nav-option {
+        font-size: 1rem;
+        padding: 12px 20px;
+        text-align: left;
+        width: 100%;
+        background: none;
+        border: none;
+        color: var(--color-primary);
         transition: background 0.3s;
     }
 

@@ -23,7 +23,7 @@ const LoadingAnimated = ({ onFinish }) => {
       <div className="loading-image-container">
         <img
           src={imageLoader}
-          alt="Loading image"
+          alt="Loading"
           className="image-rotate"
         />
       </div>
