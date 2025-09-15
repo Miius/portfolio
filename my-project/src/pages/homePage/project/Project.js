@@ -6,6 +6,8 @@ import imageLegaldigital from '../../../assets/img/project/legaldigital.png';
 import imageHooked from '../../../assets/img/project/hooked.png';
 import iconWin from '../../../assets/icon/win.svg';
 import iconLinux from '../../../assets/icon/linux.svg';
+import iconAndroid from '../../../assets/icon/android.svg';
+import iconIOS from '../../../assets/icon/ios.svg';
 import iconPlataform from '../../../assets/icon/plataform.svg';
 
 import ButtonSimple from '../../../components/buttons/simpleCustom/ButtonSimple';
@@ -15,7 +17,9 @@ const Project = () => {
 
     const tagIcons = {
         Windows: iconWin,
-        Linux: iconLinux
+        Linux: iconLinux,
+        Android: iconAndroid,
+        iOS: iconIOS,
     };
 
     const projectsData = [
