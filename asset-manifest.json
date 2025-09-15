@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.8a76a511.css",
-    "main.js": "/portfolio/static/js/main.d443ef65.js",
+    "main.js": "/portfolio/static/js/main.ca419965.js",
     "static/js/453.0a36081d.chunk.js": "/portfolio/static/js/453.0a36081d.chunk.js",
     "static/media/profile-about.png": "/portfolio/static/media/profile-about.32a98bcbc374144ba860.png",
     "static/media/image-loading.png": "/portfolio/static/media/image-loading.8ac3cfd22b8c366019e8.png",
@@ -25,15 +25,17 @@
     "static/media/itchio-white.svg": "/portfolio/static/media/itchio-white.3f398549cbb515f31e6ae65f8f27e964.svg",
     "static/media/itchio.svg": "/portfolio/static/media/itchio.4f03d1047d5406c54fdc4e03a442de0c.svg",
     "static/media/br.svg": "/portfolio/static/media/br.050b74316b0da55026c0578e6cd7faa2.svg",
+    "static/media/android.svg": "/portfolio/static/media/android.5bcf699c6971f59d003743f07769512b.svg",
+    "static/media/ios.svg": "/portfolio/static/media/ios.d417ac7b3cc74c3c4be9b64c91bfc7a2.svg",
     "static/media/win.svg": "/portfolio/static/media/win.75fc98aa58a02f9b979df25b5ef68d04.svg",
     "index.html": "/portfolio/index.html",
     "static/media/copy.svg": "/portfolio/static/media/copy.546b1d009e54f223bc651184d5d8ab12.svg",
     "main.8a76a511.css.map": "/portfolio/static/css/main.8a76a511.css.map",
-    "main.d443ef65.js.map": "/portfolio/static/js/main.d443ef65.js.map",
+    "main.ca419965.js.map": "/portfolio/static/js/main.ca419965.js.map",
     "453.0a36081d.chunk.js.map": "/portfolio/static/js/453.0a36081d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8a76a511.css",
-    "static/js/main.d443ef65.js"
+    "static/js/main.ca419965.js"
   ]
 }
