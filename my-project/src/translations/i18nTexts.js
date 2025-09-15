@@ -12,7 +12,7 @@ const i18nTexts = {
 
         Section_Project: 'Projetos',
         Description_Hooked_Project: 'Combate PvP com temática gastronômica e mecânicas de gancho.',
-        Description_ChaoticSea_Project: 'RPG de cartas por turnos, com sistema de cartas e combate estratégico.',
+        Description_Legaldigital_Project: 'Jogo sobre as normas gerais de trânsito.',
         Description_Blockar_Project: 'Sandbox de construção de veículos com física realista. Você projeta, testa e adapta carros para superar obstáculos.',
         Button_View_Project: 'Ver Mais',
 
@@ -83,8 +83,8 @@ const i18nTexts = {
 
         Section_Project: 'Projects',
         Description_Hooked_Project: 'Gastronomy-themed PvP combat with hook mechanics.',
-        Description_ChaoticSea_Project: 'Turn-based card RPG with a card system and strategic combat.',
-        Description_Blockar_Project: 'Vehicle construction sandbox with realistic physics. You design, test, and adapt cars to overcome obstacles.',
+        Description_Legaldigital_Project: 'A game about general traffic rules.',
+        Description_Blockar_Project: 'A vehicle-building sandbox with realistic physics. You design, test, and adapt cars to overcome obstacles.',
         Button_View_Project: 'View More',
 
         Section_About: 'About Me',

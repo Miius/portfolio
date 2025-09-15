@@ -2,7 +2,7 @@ import './Project.css';
 import useTexts from '../../../hooks/useTexts';
 
 import imageBlockar from '../../../assets/img/project/blockar.jpg';
-import imageChaoticSea from '../../../assets/img/project/chaotic.png';
+import imageLegaldigital from '../../../assets/img/project/legaldigital.png';
 import imageHooked from '../../../assets/img/project/hooked.png';
 import iconWin from '../../../assets/icon/win.svg';
 import iconLinux from '../../../assets/icon/linux.svg';
@@ -21,6 +21,24 @@ const Project = () => {
     const projectsData = [
         {
             id: 1,
+            title: 'Transitando Legal Digital',
+            category: 'Educational',
+            description: texts.Description_Legaldigital_Project,
+            imageUrl: imageLegaldigital,
+            projectUrl: 'https://play.google.com/store/apps/details?id=com.Aioros.TLDigital&hl=pt_BR',
+            tags: ['Unity', 'Android', 'iOS']
+        },
+        {
+            id: 2,
+            title: 'Hooked',
+            category: 'Fighting | PVP Casual',
+            description: texts.Description_Hooked_Project,
+            imageUrl: imageHooked,
+            projectUrl: 'https://mamacabra.itch.io/hooked', 
+            tags: ['Unity', 'Linux', 'Windows']
+        },
+        {
+            id: 3,
             title: 'Blockar',
             category: 'Puzzle',
             description: texts.Description_Blockar_Project,
@@ -28,24 +46,6 @@ const Project = () => {
             projectUrl: 'https://mamacabra.itch.io/blockar',
             tags: ['Unity', 'Linux', 'Windows']
         },
-        {
-            id: 2,
-            title: 'Chaotic Sea',
-            category: 'RPG | Role Playing',
-            description: texts.Description_ChaoticSea_Project,
-            imageUrl: imageChaoticSea,
-            projectUrl: 'https://mamacabra.itch.io/chaoticsea',
-            tags: ['Unity', 'Linux', 'Windows']
-        },
-        {
-            id: 3,
-            title: 'Hooked',
-            category: 'Fighting | PVP Casual',
-            description: texts.Description_Hooked_Project,
-            imageUrl: imageHooked,
-            projectUrl: 'https://mamacabra.itch.io/hooked', 
-            tags: ['Unity', 'Linux', 'Windows']
-        }
     ];
 
     return (
