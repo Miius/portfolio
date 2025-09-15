@@ -1,22 +1,39 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.15325b8e.css",
-    "main.js": "/portfolio/static/js/main.b1532141.js",
+    "main.css": "/portfolio/static/css/main.621a6fa3.css",
+    "main.js": "/portfolio/static/js/main.32379c07.js",
     "static/js/453.0a36081d.chunk.js": "/portfolio/static/js/453.0a36081d.chunk.js",
+    "static/media/profile-about.png": "/portfolio/static/media/profile-about.32a98bcbc374144ba860.png",
     "static/media/image-loading.png": "/portfolio/static/media/image-loading.8ac3cfd22b8c366019e8.png",
-    "static/media/maskIntro.png": "/portfolio/static/media/maskIntro.beb4d879e0eb071ac5ee.png",
+    "static/media/maskIntro.png": "/portfolio/static/media/maskIntro.d8e6d08b3945c3f9e58c.png",
+    "static/media/hooked.png": "/portfolio/static/media/hooked.152d5ae6b381ee78e82d.png",
+    "static/media/chaotic.png": "/portfolio/static/media/chaotic.748d8e1face0e153ea58.png",
+    "static/media/legaldigital.png": "/portfolio/static/media/legaldigital.d200ecde9a500d403b5b.png",
+    "static/media/broccoli.png": "/portfolio/static/media/broccoli.0ed53567eec70e583879.png",
+    "static/media/blockar.jpg": "/portfolio/static/media/blockar.40ec50ade8bccac62e47.jpg",
+    "static/media/linkedin-white.svg": "/portfolio/static/media/linkedin-white.3849630c1b165be48a48339eb7e4b4c8.svg",
     "static/media/linkedin.svg": "/portfolio/static/media/linkedin.313858e6b7248e8b46c5c97dbb403341.svg",
+    "static/media/introducion.png": "/portfolio/static/media/introducion.8590122ac671316bcd56.png",
+    "static/media/toomuch.png": "/portfolio/static/media/toomuch.813be862b94c174a59ea.png",
     "static/media/us.svg": "/portfolio/static/media/us.e53298ba37950ebf6bae7c5ae7b3f5a2.svg",
+    "static/media/github-white.svg": "/portfolio/static/media/github-white.3da3dd1f6247b8fa4725815a6a5fe3dc.svg",
     "static/media/github.svg": "/portfolio/static/media/github.9801e89eac4e43634873ab98eb2494a8.svg",
+    "static/media/linux.svg": "/portfolio/static/media/linux.0086b7b7eb565c4eba8a39e2bbd90aec.svg",
+    "static/media/plataform.svg": "/portfolio/static/media/plataform.2f6f3a1c6440691ce1d71d8f697bbd74.svg",
+    "static/media/achievement.svg": "/portfolio/static/media/achievement.e0a94a599e55c5da9e8a4c2b428f9327.svg",
+    "static/media/skills.svg": "/portfolio/static/media/skills.0a0bde93bbd7355de24842caa9a2e178.svg",
+    "static/media/itchio-white.svg": "/portfolio/static/media/itchio-white.3f398549cbb515f31e6ae65f8f27e964.svg",
     "static/media/itchio.svg": "/portfolio/static/media/itchio.4f03d1047d5406c54fdc4e03a442de0c.svg",
     "static/media/br.svg": "/portfolio/static/media/br.050b74316b0da55026c0578e6cd7faa2.svg",
+    "static/media/win.svg": "/portfolio/static/media/win.75fc98aa58a02f9b979df25b5ef68d04.svg",
     "index.html": "/portfolio/index.html",
-    "main.15325b8e.css.map": "/portfolio/static/css/main.15325b8e.css.map",
-    "main.b1532141.js.map": "/portfolio/static/js/main.b1532141.js.map",
+    "static/media/copy.svg": "/portfolio/static/media/copy.546b1d009e54f223bc651184d5d8ab12.svg",
+    "main.621a6fa3.css.map": "/portfolio/static/css/main.621a6fa3.css.map",
+    "main.32379c07.js.map": "/portfolio/static/js/main.32379c07.js.map",
     "453.0a36081d.chunk.js.map": "/portfolio/static/js/453.0a36081d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.15325b8e.css",
-    "static/js/main.b1532141.js"
+    "static/css/main.621a6fa3.css",
+    "static/js/main.32379c07.js"
   ]
 }
