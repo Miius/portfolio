@@ -85,6 +85,26 @@
     border-radius: 62px;
 }
 
+.header-link-projectsAll {
+    display: flex;
+    justify-content: flex-end;
+    gap: 5px;
+    width: 100%;
+    max-width: 1400px;
+    padding: 2rem 4rem 0.5rem 0;
+}
+
+.text-link-projectsAll {
+    text-decoration: none;
+    color: var(--color-secondary);
+    font-weight: 600;
+}
+
+.icon-link-projectsAll {
+    width: 15px;
+    cursor: pointer;
+}
+
 .projectsAll-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, 310px);
@@ -92,7 +112,7 @@
     gap: 1.5rem;
     width: 100%;
     max-width: 1400px;
-    padding: 2rem;
+    padding: 0rem 2rem 2rem 2rem;
     box-sizing: border-box;
 }
 
