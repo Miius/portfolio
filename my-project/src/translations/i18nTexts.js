@@ -18,7 +18,7 @@ const i18nTexts = {
 
         Section_About: 'Sobre Mim',
         TextProfile_01_About: 'Sou formada em Jogos Digitais pela PUC Minas e atualmente faço pós em Engenharia de UX. Atuo como desenvolvedora Unity Pleno com foco em criar experiências digitais envolventes, seja em jogos mobile, simuladores, jogos educacionais, projetos com realidade aumentada ou campanhas interativas para empresas. Ao longo dos últimos anos, desenvolvi projetos para diversas finalidades e públicos. Além da programação em C# e do uso avançado da Unity (2D e 3D), também atuo com sistemas de UI, design de interação e otimização para múltiplas plataformas.',
-        TextProfile_02_About: 'Tenho familiaridade com HTML, CSS e JavaScript, o que me permite colaborar com times multidisciplinares, tanto no front quanto no game logic.',
+        TextProfile_02_About: 'Também tenho familiaridade com HTML, CSS e JavaScript.',
         TextProfile_extra_About: 'Meu diferencial? Entrego com atenção aos detalhes, foco no usuário e paixão pelo que faço.',
         Achievement_01_About: 'Bacharelado em Jogos Digitais - PUC Minas',
         Achievement_02_About: 'Especialização em UX Engineering - PUC Minas (No Momento)',
@@ -89,7 +89,7 @@ const i18nTexts = {
 
         Section_About: 'About Me',
         TextProfile_01_About: 'I have a degree in Digital Games from PUC Minas and I am currently pursuing a postgraduate degree in UX Engineering. I work as a Mid-level Unity Developer focused on creating engaging digital experiences, whether in mobile games, simulators, educational games, augmented reality projects, or interactive campaigns for companies. Over the past few years, I have developed projects for various purposes and audiences. In addition to C# programming and advanced use of Unity (2D and 3D), I also work with UI systems, interaction design, and optimization for multiple platforms.',
-        TextProfile_02_About: 'I am familiar with HTML, CSS, and JavaScript, which allows me to collaborate with multidisciplinary teams on both front-end and game logic.',
+        TextProfile_02_About: 'I am also familiar with HTML, CSS, and JavaScrip.',
         TextProfile_extra_About: 'My differential? I deliver with attention to detail, a focus on the user, and a passion for what I do.',
         Achievement_01_About: 'Bachelor\'s Degree in Digital Games - PUC Minas',
         Achievement_02_About: 'Specialization in UX Engineering - PUC Minas (Present)',
