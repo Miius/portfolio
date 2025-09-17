@@ -6,6 +6,8 @@ import iconGithub from '../../../assets/icon/github.svg';
 import iconItchio from '../../../assets/icon/itchio.svg';
 import iconLinkedin from '../../../assets/icon/linkedin.svg';
 
+import docCurriculum from '../../../assets/doc/Curriculum_MarielleFidelis_EN.pdf';
+
 import useTexts from '../../../hooks/useTexts';
 import ButtonSocial from '../../../components/buttons/redeSocial/ButtonSocial';
 import ButtonSimple from '../../../components/buttons/simpleCustom/ButtonSimple';
@@ -24,7 +26,7 @@ const Intro = () => {
                         <p className="text-profile-home">{texts.TextProfile_Intro}</p>
                         <p className="text-profile-home-extra">{texts.TextProfile_Intro_Extra}</p>
                         <div className="buttons-home">
-                            <ButtonSimple height="40px" href={""} text={texts.TextButtonCurriculum_Intro} width="150px" borderRadius="12px" alt="Botão de Curriculo"/>
+                            <ButtonSimple height="40px" href={docCurriculum} text={texts.TextButtonCurriculum_Intro} width="150px" borderRadius="12px" target="_blank" rel="noopener noreferrer" alt="Botão de Curriculo"/>
                              <div className="redeSocial-home">
                                 <ButtonSocial height={"38px"} width={"38px"} icon={iconLinkedin} alt="Botão Linkedin" href="http://linkedin.com/in/marielle-game-dev/"/>
                                 <ButtonSocial height={"32px"} width={"32px"} icon={iconGithub} alt="Botão github" href="https://github.com/Miius"/>

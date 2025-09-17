@@ -109,7 +109,7 @@ const Project = () => {
                     ))}
                 </div>
                 <div className="project-button-view">
-                    <ButtonSimple height="30px" href={"portfolio/projects"} text={texts.Button_View_Project} width="110px" borderRadius="12px" alt="Botão Ver Mais"/>
+                    <ButtonSimple height="30px" href={"/projects"} text={texts.Button_View_Project} width="110px" borderRadius="12px" alt="Botão Ver Mais"/>
                 </div>
             </div>
         </section>
