@@ -3,7 +3,7 @@ import useTexts from '../../../hooks/useTexts';
 
 import imageBlockar from '../../../assets/img/project/blockar.jpg';
 import imageLegaldigital from '../../../assets/img/project/legaldigital.png';
-import imageHooked from '../../../assets/img/project/hooked.png';
+import imageHooked from '../../../assets/img/project/hooked.jpeg';
 import iconWin from '../../../assets/icon/win.svg';
 import iconLinux from '../../../assets/icon/linux.svg';
 import iconAndroid from '../../../assets/icon/android.svg';

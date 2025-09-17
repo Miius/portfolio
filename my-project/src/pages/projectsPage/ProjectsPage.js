@@ -10,7 +10,7 @@ import imageIntroducion from '../../assets/img/project/introducion.png';
 import iconLink from '../../assets/icon/link.svg';
 
 // Imagem dos projetos
-import imageHooked from '../../assets/img/project/hooked.png';
+import imageHooked from '../../assets/img/project/hooked.jpg';
 import imageBrocolli from '../../assets/img/project/broccoli.png';
 import imageBlockar from '../../assets/img/project/blockar.jpg';
 import imageChaotic from '../../assets/img/project/chaotic.png';
@@ -35,7 +35,7 @@ const allProjectsData = [
     { id: 7, path: 'https://drive.google.com/file/d/1TeISWDMRWdXyG_1ntQQTxJAHQrSaIXkX/view?usp=sharing', title: 'Itaú Runner ', category: 'Aioros Studios', image: imageItauRunner, tags: ['Unity', 'Phygital'], type: 'professional' },
     { id: 8, path: 'https://drive.google.com/file/d/19iqXeNrILq1pDC6wQ42d2_sBb4UX82qZ/view?usp=sharing', title: 'Campanha Meu Malvado Favorito 4', category: 'Aioros Studios', image: imageMeuMalvadoFav, tags: ['Unity', 'Phygital'], type: 'professional' },
     { id: 9, path: 'https://drive.google.com/file/d/1ERE4YnOgKc3QG0Asa8Li6amVI-kMwEOI/view?usp=sharing', title: 'Tim Mapa Interativo', category: 'Aioros Studios', image: imageTimMapa, tags: ['Unity', 'Phygital'], type: 'professional' },
-    { id: 10, path: 'https://drive.google.com/file/d/1hZLAMKMcvmLr7XEQFE2NqvefhXRpH4c9/view?usp=sharing', title: 'Dive.b Learning English', category: 'Aioros Studios', image: imageDiveb, tags: ['Unity', 'PC', 'Educational'], type: 'professional' },
+    { id: 10, path: 'https://drive.google.com/file/d/1hZLAMKMcvmLr7XEQFE2NqvefhXRpH4c9/view?usp=sharing', title: 'Jogos Educativos Bernoulli', category: 'Aioros Studios', image: imageDiveb, tags: ['Unity', 'PC', 'Educational'], type: 'professional' },
     { id: 11, path: 'https://drive.google.com/file/d/1gY_kbKFIFmwMIyEKz9Qzw-Rt1v4YHSf4/view?usp=sharing', title: 'Tim Black Friday', category: 'Aioros Studios', image: imageTimBlackFriday, tags: ['Unity', 'Phygital'], type: 'professional' },
     { id: 12, path: 'https://drive.google.com/file/d/1idGE-0z4tB4uDBrNIU1OrG7gb7PIBz2L/view?usp=sharing', title: 'Banco do Brasil - Fonte de Ouro', category: 'Aioros Studios', image: imagefonteOuro, tags: ['Unity', 'Phygital'], type: 'professional' },
     { id: 13, path: 'https://drive.google.com/file/d/1lXTRqFogZmb2u8Hi9R2wTRbFdTwhHReL/view?usp=sharing', title: 'Aioros Café', category: 'Aioros Studios', image: imagecafeAioros, tags: ['Unity', 'Phygital'], type: 'professional' },
