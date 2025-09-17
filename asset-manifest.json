@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.d9ba925f.css",
-    "main.js": "/portfolio/static/js/main.1b5c7bc7.js",
+    "main.js": "/portfolio/static/js/main.af8e5208.js",
     "static/js/453.0a36081d.chunk.js": "/portfolio/static/js/453.0a36081d.chunk.js",
     "static/media/profile-about.png": "/portfolio/static/media/profile-about.32a98bcbc374144ba860.png",
     "static/media/image-loading.png": "/portfolio/static/media/image-loading.8ac3cfd22b8c366019e8.png",
@@ -11,8 +11,9 @@
     "static/media/fonteOuro.png": "/portfolio/static/media/fonteOuro.885ed07ec38e3a55c726.png",
     "static/media/cafeAioros.png": "/portfolio/static/media/cafeAioros.aeefed9277c7fe97f3f1.png",
     "static/media/timMapa.png": "/portfolio/static/media/timMapa.2d655615ee1edbd0e861.png",
+    "static/media/hookedThumb.jpeg": "/portfolio/static/media/hookedThumb.10efa2db661fbe46d9ea.jpeg",
     "static/media/Curriculum_MarielleFidelis_EN.pdf": "/portfolio/static/media/Curriculum_MarielleFidelis_EN.700acce43a079e1c2ada.pdf",
-    "static/media/hooked.png": "/portfolio/static/media/hooked.152d5ae6b381ee78e82d.png",
+    "static/media/hooked.jpg": "/portfolio/static/media/hooked.8b95833485c7f6b05f49.jpg",
     "static/media/malvadoFav.webp": "/portfolio/static/media/malvadoFav.a2dfa3b7be3aeedae4e3.webp",
     "static/media/chaotic.png": "/portfolio/static/media/chaotic.748d8e1face0e153ea58.png",
     "static/media/legaldigital.png": "/portfolio/static/media/legaldigital.d200ecde9a500d403b5b.png",
@@ -40,11 +41,11 @@
     "index.html": "/portfolio/index.html",
     "static/media/copy.svg": "/portfolio/static/media/copy.546b1d009e54f223bc651184d5d8ab12.svg",
     "main.d9ba925f.css.map": "/portfolio/static/css/main.d9ba925f.css.map",
-    "main.1b5c7bc7.js.map": "/portfolio/static/js/main.1b5c7bc7.js.map",
+    "main.af8e5208.js.map": "/portfolio/static/js/main.af8e5208.js.map",
     "453.0a36081d.chunk.js.map": "/portfolio/static/js/453.0a36081d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d9ba925f.css",
-    "static/js/main.1b5c7bc7.js"
+    "static/js/main.af8e5208.js"
   ]
 }
