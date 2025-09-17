@@ -1,19 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8a76a511.css",
-    "main.js": "/portfolio/static/js/main.e2e829e8.js",
+    "main.css": "/portfolio/static/css/main.891bb686.css",
+    "main.js": "/portfolio/static/js/main.1b5c7bc7.js",
     "static/js/453.0a36081d.chunk.js": "/portfolio/static/js/453.0a36081d.chunk.js",
     "static/media/profile-about.png": "/portfolio/static/media/profile-about.32a98bcbc374144ba860.png",
     "static/media/image-loading.png": "/portfolio/static/media/image-loading.8ac3cfd22b8c366019e8.png",
+    "static/media/diveb.png": "/portfolio/static/media/diveb.d648a9a5b88366463588.png",
+    "static/media/timBlackFriday.png": "/portfolio/static/media/timBlackFriday.ccefa3351a30674aecee.png",
     "static/media/maskIntro.png": "/portfolio/static/media/maskIntro.d8e6d08b3945c3f9e58c.png",
+    "static/media/fonteOuro.png": "/portfolio/static/media/fonteOuro.885ed07ec38e3a55c726.png",
+    "static/media/cafeAioros.png": "/portfolio/static/media/cafeAioros.aeefed9277c7fe97f3f1.png",
+    "static/media/timMapa.png": "/portfolio/static/media/timMapa.2d655615ee1edbd0e861.png",
     "static/media/Curriculum_MarielleFidelis_EN.pdf": "/portfolio/static/media/Curriculum_MarielleFidelis_EN.700acce43a079e1c2ada.pdf",
     "static/media/hooked.png": "/portfolio/static/media/hooked.152d5ae6b381ee78e82d.png",
+    "static/media/malvadoFav.webp": "/portfolio/static/media/malvadoFav.a2dfa3b7be3aeedae4e3.webp",
     "static/media/chaotic.png": "/portfolio/static/media/chaotic.748d8e1face0e153ea58.png",
     "static/media/legaldigital.png": "/portfolio/static/media/legaldigital.d200ecde9a500d403b5b.png",
     "static/media/broccoli.png": "/portfolio/static/media/broccoli.0ed53567eec70e583879.png",
     "static/media/blockar.jpg": "/portfolio/static/media/blockar.40ec50ade8bccac62e47.jpg",
     "static/media/linkedin-white.svg": "/portfolio/static/media/linkedin-white.3849630c1b165be48a48339eb7e4b4c8.svg",
     "static/media/linkedin.svg": "/portfolio/static/media/linkedin.313858e6b7248e8b46c5c97dbb403341.svg",
+    "static/media/itaurunner.webp": "/portfolio/static/media/itaurunner.78680266825d4721670c.webp",
     "static/media/introducion.png": "/portfolio/static/media/introducion.8590122ac671316bcd56.png",
     "static/media/toomuch.png": "/portfolio/static/media/toomuch.813be862b94c174a59ea.png",
     "static/media/us.svg": "/portfolio/static/media/us.e53298ba37950ebf6bae7c5ae7b3f5a2.svg",
@@ -29,14 +36,15 @@
     "static/media/android.svg": "/portfolio/static/media/android.5bcf699c6971f59d003743f07769512b.svg",
     "static/media/ios.svg": "/portfolio/static/media/ios.d417ac7b3cc74c3c4be9b64c91bfc7a2.svg",
     "static/media/win.svg": "/portfolio/static/media/win.75fc98aa58a02f9b979df25b5ef68d04.svg",
+    "static/media/link.svg": "/portfolio/static/media/link.5bd682f5362f49481111b64da63f0e11.svg",
     "index.html": "/portfolio/index.html",
     "static/media/copy.svg": "/portfolio/static/media/copy.546b1d009e54f223bc651184d5d8ab12.svg",
-    "main.8a76a511.css.map": "/portfolio/static/css/main.8a76a511.css.map",
-    "main.e2e829e8.js.map": "/portfolio/static/js/main.e2e829e8.js.map",
+    "main.891bb686.css.map": "/portfolio/static/css/main.891bb686.css.map",
+    "main.1b5c7bc7.js.map": "/portfolio/static/js/main.1b5c7bc7.js.map",
     "453.0a36081d.chunk.js.map": "/portfolio/static/js/453.0a36081d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a76a511.css",
-    "static/js/main.e2e829e8.js"
+    "static/css/main.891bb686.css",
+    "static/js/main.1b5c7bc7.js"
   ]
 }
