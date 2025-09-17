@@ -91,7 +91,8 @@
     gap: 5px;
     width: 100%;
     max-width: 1400px;
-    padding: 2rem 4rem 0.5rem 0;
+    padding: 2rem 0 0.5rem 0;
+    margin-right: 4rem;
 }
 
 .text-link-projectsAll {
@@ -191,7 +192,9 @@
 
 /* Telas entre 768px e 1300px*/
 @media (max-width: 1300px) and (min-width: 769px) {
-
+    .header-link-projectsAll {
+        max-width: 730px;
+    }
 }
 
 /* Estilos para Mobile */
@@ -212,6 +215,12 @@
 
     .projects-subtitle {
         font-size: 1rem;
+    }
+
+    .header-link-projectsAll {
+        max-width: auto;
+        padding: 2rem 0 1rem 0;
+        margin-right: 32px;
     }
 
     .projectsAll-grid {
