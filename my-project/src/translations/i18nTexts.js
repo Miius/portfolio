@@ -68,7 +68,7 @@ const i18nTexts = {
         TitlePage_ProjectsProfessional: 'Profissional',
         TitlePage_ProjectsPersonal: 'Pessoal',
         Game_Projects: 'Jogos',
-        GameText_Projects: 'Clique no jogo para ler mais',
+        GameText_Projects: 'Clique no jogo para saber mais',
     },
     'en-US': {
         About_Header: 'About',
@@ -137,7 +137,7 @@ const i18nTexts = {
         TitlePage_ProjectsProfessional: 'Professional',
         TitlePage_ProjectsPersonal: 'Personal',
         Game_Projects: 'Games',
-        GameText_Projects: 'Click on a game to read more',
+        GameText_Projects: 'Click on a game to learn more',
     },
 };
   

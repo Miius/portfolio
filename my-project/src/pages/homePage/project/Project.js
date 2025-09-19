@@ -1,8 +1,8 @@
 import './Project.css';
 import useTexts from '../../../hooks/useTexts';
 
-import imageBlockar from '../../../assets/img/project/blockar.jpg';
-import imageLegaldigital from '../../../assets/img/project/legaldigital.png';
+import imageBlockar from '../../../assets/img/project/blockar.jpeg';
+import imageLegaldigital from '../../../assets/img/project/transitolegal.webp';
 import imageHooked from '../../../assets/img/project/hookedThumb.jpeg';
 import iconWin from '../../../assets/icon/win.svg';
 import iconLinux from '../../../assets/icon/linux.svg';
