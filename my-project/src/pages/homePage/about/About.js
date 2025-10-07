@@ -23,9 +23,6 @@ const About = () => {
                             <p>
                                 {texts.TextProfile_01_About}
                             </p>
-                            <p>
-                                {texts.TextProfile_02_About}
-                            </p>
                             <p className="text-extra-about">
                                 {texts.TextProfile_extra_About}
                             </p>

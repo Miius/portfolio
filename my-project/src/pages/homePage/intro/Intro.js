@@ -1,6 +1,7 @@
 import './Intro.css';
 
-import imageIntro from '../../../assets/img/maskIntro.png';
+import imageDesktop from '../../../assets/img/intro-desktop.png';
+import imageMobile from '../../../assets/img/intro-mobile.png';
 
 import iconGithub from '../../../assets/icon/github.svg';
 import iconItchio from '../../../assets/icon/itchio.svg';
@@ -39,7 +40,10 @@ const Intro = () => {
                             <LanguageSelector/>
                         </div>
                         <div className="image-home">
-                            <img className="foreground-image" src={imageIntro} alt="Imagem de Introdução"/>
+                            <picture>
+                                <source media="(max-width: 768px)" srcSet={imageMobile} />
+                                <img className="foreground-image" src={imageDesktop} alt="Descrição da imagem de introdução" />
+                            </picture>
                         </div>
                     </div>
                 </div>
