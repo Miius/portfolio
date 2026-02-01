@@ -76,7 +76,7 @@ const i18nTexts = {
 
         TextProfession_Intro: 'UNITY GAME DEVELOPER · UX',
         TextPresentation_Intro: 'Hello! I\'m Marielle Fidelis',
-        TextProfile_Intro: '’m a Unity Game Developer with 4 years of experience building games for PC, mobile, and web. I work in a generalist role, from prototype to final delivery, with a strong focus on UX, UI, game feel, and polish, creating intuitive, responsive, and well-crafted player experiences.',
+        TextProfile_Intro: 'I’m a Unity Game Developer with 4 years of experience building games for PC, mobile, and web. I work in a generalist role, from prototype to final delivery, with a strong focus on UX, UI, game feel, and polish, creating intuitive, responsive, and well-crafted player experiences.',
         TextProfile_Intro_Extra: 'I currently work as a Mid-level Unity Developer and I’m pursuing a Postgraduate degree in UX Engineering. If you’d like to know more, feel free to check out my resume',
         TextButtonCurriculum_Intro: 'Curriculum',
 
