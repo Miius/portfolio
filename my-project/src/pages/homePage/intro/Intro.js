@@ -7,7 +7,7 @@ import iconGithub from '../../../assets/icon/github.svg';
 import iconItchio from '../../../assets/icon/itchio.svg';
 import iconLinkedin from '../../../assets/icon/linkedin.svg';
 
-import docCurriculum from '../../../assets/doc/Curriculum_MarielleFidelis_EN.pdf';
+import docCurriculum from '../../../assets/doc/Curriculum_MarielleFidelis.pdf';
 
 import useTexts from '../../../hooks/useTexts';
 import ButtonSocial from '../../../components/buttons/redeSocial/ButtonSocial';
