@@ -38,7 +38,7 @@ const Project = () => {
             category: 'Fighting | PVP Casual',
             description: texts.Description_Hooked_Project,
             imageUrl: imageHooked,
-            projectUrl: 'https://mamacabra.itch.io/hooked', 
+            projectUrl: 'https://store.steampowered.com/app/3997950/Hooked/', 
             tags: ['Unity', 'Linux', 'Windows']
         },
         {

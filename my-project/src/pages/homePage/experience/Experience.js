@@ -18,7 +18,7 @@ const Experience = () => {
             type: texts.Type_01_Experience,
             dates: texts.Dates_01_Experience,
             location: texts.Location_01_Experience,
-            skills: ['Unity Develope', 'Game Developer', 'Game Design', 'Mobile', 'Web', 'PC', 'Augmented Reality(AR)'],
+            skills: ['Unity', 'Game Developer', 'Game Design', 'C#', 'UX', 'Augmented Reality(AR)'],
             image: imageAioros
         },
         {

@@ -28,7 +28,7 @@ import imagecafeAioros from '../../assets/img/project/cafeAioros.jpg';
 
 const allProjectsData = [
     { id: 1, path: 'https://play.google.com/store/apps/details?id=com.Aioros.TLDigital&hl=pt_BR', title: 'Transitando Legal Digital', category: 'Aioros Studios', image: imageTransitandoLegal, tags: ['Unity', 'Android/iOS', 'Educational'], type: 'professional' },
-    { id: 2, path: 'https://mamacabra.itch.io/hooked', title: 'Hooked', category: 'Indie', image: imageHooked, tags: ['Unity', 'Windows', 'Linux'], type: 'personal' },
+    { id: 2, path: 'https://store.steampowered.com/app/3997950/Hooked/', title: 'Hooked', category: 'Indie', image: imageHooked, tags: ['Unity', 'Windows', 'Linux'], type: 'personal' },
     { id: 3, path: 'https://mamacabra.itch.io/blockar', title: 'Blockar ', category: 'Indie', image: imageBlockar, tags: ['Unity', 'Windows', 'Linux'], type: 'personal' },
     { id: 4, path: 'https://mamacabra.itch.io/chaoticsea', title: 'Chaotic Sea', category: 'Indie', image: imageChaotic, tags: ['Unity', 'Windows', 'Linux'], type: 'personal' },
     { id: 5, path: 'https://giovana-melo.itch.io/too-much-work-for-only-one-godess', title: 'Too Much Work For Only One Godess', category: 'Game Jam', image: imageTooMuch, tags: ['Construct', 'Windows', 'Linux'], type: 'personal' },
