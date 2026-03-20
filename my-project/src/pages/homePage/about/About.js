@@ -2,6 +2,7 @@ import './About.css';
 import useTexts from '../../../hooks/useTexts';
 
 import imageAbout from '../../../assets/img/profile-about.png';
+import iconStudy from '../../../assets/icon/study.png';
 import iconAchievement from '../../../assets/icon/achievement.svg';
 
 const About = () => {
@@ -30,12 +31,16 @@ const About = () => {
                         <div className="divider-about"/>
                         <div className="achievement-about">
                             <div>
-                                <img src={iconAchievement} className="achievement-icon-about" alt="icone de conquista"/>
+                                <img src={iconStudy} className="achievement-icon-about" alt="icone de conquista"/>
                                 <p>{texts.Achievement_01_About}</p>
                             </div>
                             <div>
-                                <img src={iconAchievement} className="achievement-icon-about" alt="icone de conquista"/>
+                                <img src={iconStudy} className="achievement-icon-about" alt="icone de conquista"/>
                                 <p>{texts.Achievement_02_About}</p>
+                            </div>
+                            <div>
+                                <img src={iconAchievement} className="achievement-icon-about" alt="icone de conquista"/>
+                                <p>{texts.Achievement_03_About}</p>
                             </div>
                         </div>
                         <div className="skills-about">

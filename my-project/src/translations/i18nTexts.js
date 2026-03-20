@@ -6,22 +6,22 @@ const i18nTexts = {
 
         TextProfession_Intro: 'UNITY GAME DEVELOPER · UX',
         TextPresentation_Intro: 'Olá! Eu sou a Marielle Fidelis',
-        TextProfile_Intro: 'Sou desenvolvedora Unity com 4 anos de experiência em desenvolvimento de jogos para PC, mobile e web. Atuo de forma generalista, do protótipo à entrega final, com forte foco em UX, UI, game feel e polimento, criando experiências intuitivas, responsivas e bem construídas.',
-        TextProfile_Intro_Extra: 'Atualmente trabalho como Unity Developer Pleno e curso Pós-Graduação em Engenharia de UX. Se quiser ver mais detalhes, dá uma olhada no meu currículo',
+       TextProfile_Intro: 'Sou desenvolvedora Unity com 4+ anos de experiência criando jogos para PC, mobile e web. Atuo de forma generalista, do protótipo à entrega final, com foco em experiência do usuário, qualidade do produto e polimento, desenvolvendo interações intuitivas, responsivas e bem construídas.',
+        TextProfile_Intro_Extra: 'Atualmente trabalho como Unity Developer Pleno e estou cursando uma Pós-Graduação em Engenharia de UX. Quer ver mais detalhes? Dá uma olhada no meu currículo.',
         TextButtonCurriculum_Intro: 'Currículo',
 
         Section_Project: 'Projetos',
-        Description_Hooked_Project: 'Combate PvP com temática gastronômica e mecânicas de gancho.',
-        Description_Legaldigital_Project: 'Jogo sobre as normas gerais de trânsito.',
-        Description_Blockar_Project: 'Sandbox de construção de veículos com física realista. Você projeta, testa e adapta carros para superar obstáculos.',
+       Description_Hooked_Project: 'Responsável por:\n• Design e implementação de UI/UX\n• Wireframes e protótipos\n• Animações de UI e feedbacks visuais\n• Documentação do projeto',
+        Description_Legaldigital_Project: 'Responsável por:\n• Desenvolvimento completo de gameplay\n• Criação de minigames e lógica de tabuleiro\n• Implementação de arte\n• Testes, polimento e build para publicação',
+       Description_Blockar_Project: 'Responsável por:\n• Design e implementação de UI/UX\n• Wireframes e protótipos\n• Game feel e feedbacks visuais\n• VFX e polimento\n• Documentação do sistema',
         Button_View_Project: 'Ver Mais',
 
         Section_About: 'Sobre Mim',
-        TextProfile_01_About: 'Sou formada em Jogos Digitais pela PUC Minas e atuo no desenvolvimento de jogos interativos e educacionais, com experiência em projetos para mobile, PC e web. Já participei de mais de 30 projetos, trabalhando desde a prototipagem e estruturação até a finalização e entrega. Tenho domínio de Unity (2D e 3D) e C#, com foco em UX aplicada a jogos, sistemas de UI, animações de interface e feedbacks visuais. Também possuo conhecimentos em Game Design, documentação (GDD) e noções de HTML, CSS e JavaScript.',
+        TextProfile_01_About: 'Sou formada em Jogos Digitais pela PUC Minas e atuo no desenvolvimento de jogos interativos e educacionais para mobile, PC e web. Tenho mais de 4 anos de experiência e já participei de 30+ projetos, contribuindo desde a prototipagem até a entrega final. Trabalho principalmente com Unity (2D e 3D) e C#, com foco em experiência do usuário, sistemas de UI e qualidade geral do produto. Também possuo experiência com Game Design, documentação (GDD) e conhecimentos em HTML, CSS e JavaScript.',
         TextProfile_extra_About: 'Meu diferencial está na atenção aos detalhes, foco no usuário e cuidado com a experiência final do jogador.',
         Achievement_01_About: 'Bacharelado em Jogos Digitais - PUC Minas (2021 - 2024)',
         Achievement_02_About: 'Pós-Graduação em Engenharia de UX - PUC Minas (No Momento)',
-
+        Achievement_03_About: 'Stellantis Education Award — Stellantis (2025)',
 
         Section_Experience: 'Experiência',
 
@@ -75,22 +75,23 @@ const i18nTexts = {
         Contact_Header: 'Contact',
 
         TextProfession_Intro: 'UNITY GAME DEVELOPER · UX',
-        TextPresentation_Intro: 'Hello! I\'m Marielle Fidelis',
-        TextProfile_Intro: 'I’m a Unity Game Developer with 4 years of experience building games for PC, mobile, and web. I work in a generalist role, from prototype to final delivery, with a strong focus on UX, UI, game feel, and polish, creating intuitive, responsive, and well-crafted player experiences.',
-        TextProfile_Intro_Extra: 'I currently work as a Mid-level Unity Developer and I’m pursuing a Postgraduate degree in UX Engineering. If you’d like to know more, feel free to check out my resume',
-        TextButtonCurriculum_Intro: 'Curriculum',
+        TextPresentation_Intro: 'Hello! I’m Marielle Fidelis',
+        TextProfile_Intro: 'I’m a Unity Developer with 4+ years of experience building games for PC, mobile, and web. I work in a generalist role, from prototype to final delivery, focusing on user experience, product quality, and polish, creating intuitive, responsive, and well-crafted interactions.',
+        TextProfile_Intro_Extra: 'Currently working as a Mid-Level Unity Developer and pursuing a Postgraduate degree in UX Engineering. Want to know more? Check out my resume.',
+        TextButtonCurriculum_Intro: 'Resume',
 
         Section_Project: 'Projects',
-        Description_Hooked_Project: 'Gastronomy-themed PvP combat with hook mechanics.',
-        Description_Legaldigital_Project: 'A game about general traffic rules.',
-        Description_Blockar_Project: 'A vehicle-building sandbox with realistic physics. You design, test, and adapt cars to overcome obstacles.',
+        Description_Hooked_Project: 'Responsible for:\n• UI/UX design and implementation\n• Wireframes and prototypes\n• UI animations and visual feedback\n• Project documentation',
+        Description_Legaldigital_Project: 'Responsible for:\n• Full gameplay development\n• Minigames and board logic\n• Art implementation\n• Testing, polish, and release builds',
+        Description_Blockar_Project: 'Responsible for:\n• UI/UX design and implementation\n• Wireframes and prototypes\n• Game feel and visual feedback\n• VFX and polish\n• System documentation',
         Button_View_Project: 'View More',
 
         Section_About: 'About Me',
-        TextProfile_01_About: 'I hold a Bachelor’s degree in Digital Games from PUC Minas and have experience developing interactive and educational games for mobile, PC, and web platforms. I’ve worked on 30+ projects, contributing from early prototyping and structure to final implementation and delivery. My main expertise is in Unity (2D and 3D) and C#, with a strong focus on UX for games, UI systems, interface animations, and visual feedback. I also have experience with Game Design documentation (GDD) and basic knowledge of HTML, CSS, and JavaScript.',
-        TextProfile_extra_About: 'What sets me apart is my attention to detail, user-centered mindset, and care for delivering a polished and intuitive player experience.',
+        TextProfile_01_About: 'I hold a Bachelor’s degree in Digital Games from PUC Minas and have over 4 years of experience developing interactive and educational games for mobile, PC, and web. I have contributed to 30+ projects, working from early prototyping to final delivery. My main expertise is in Unity (2D and 3D) and C#, with a focus on user experience, UI systems, and overall product quality. I also have experience with Game Design, documentation (GDD), and knowledge of HTML, CSS, and JavaScript.',
+        TextProfile_extra_About: 'My main strength lies in my attention to detail, strong user focus, and dedication to delivering a polished final player experience.',
         Achievement_01_About: 'Bachelor\'s Degree in Digital Games - PUC Minas (2021 - 2024)',
         Achievement_02_About: 'Specialization in UX Engineering - PUC Minas (Present)',
+        Achievement_03_About: 'Stellantis Education Award — Stellantis (2025)',
 
         Section_Experience: 'Experience',
 
