@@ -8,7 +8,7 @@ const i18nTexts = {
         TextPresentation_Intro: 'Olá! Eu sou a Marielle Fidelis',
         TextProfile_Intro: 'Sou desenvolvedora Unity com 4 anos de experiência em desenvolvimento de jogos para PC, mobile e web. Atuo de forma generalista, do protótipo à entrega final, com forte foco em UX, UI, game feel e polimento, criando experiências intuitivas, responsivas e bem construídas.',
         TextProfile_Intro_Extra: 'Atualmente trabalho como Unity Developer Pleno e curso Pós-Graduação em Engenharia de UX. Se quiser ver mais detalhes, dá uma olhada no meu currículo',
-        TextButtonCurriculum_Intro: 'Curriculo',
+        TextButtonCurriculum_Intro: 'Currículo',
 
         Section_Project: 'Projetos',
         Description_Hooked_Project: 'Combate PvP com temática gastronômica e mecânicas de gancho.',
