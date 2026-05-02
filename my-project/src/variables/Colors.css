@@ -3,22 +3,21 @@
 :root {
     --background-primary: var(--color-primary);
     --background-secondary: var(--color-secondary);
-    --background-footer: #C13F27;
+    --background-footer: #7e2f26;
 
     /* Cores da palheta */
-    --color-primary: #F6F6F6;
-    --color-secondary: #C13F27;
-    --color-tertiary: #FBE9DD;
-    --color-spare: #2F4858;
+    --color-primary: #F7f3ea;
+    --color-secondary: #7e2f26;
+    --color-tertiary: #e8dccb;
+    --color-spare: #242326;
 
     /* Cores dos Botões Custom */
-    --color-button-header: #dadada;
-    --color-buttonScroll: #000;
+    --color-button-header: #e8dccb;
+    --color-buttonScroll: #242326;
 
 
     /* Cores das fontes */
-    --font-primary: #56413E;
-    --font-secondary: #FFF1D7;
-    --font-black: #000;
-
+    --font-primary: #242326;
+    --font-secondary: #F7f3ea;
+    --font-black: #242326;
 }

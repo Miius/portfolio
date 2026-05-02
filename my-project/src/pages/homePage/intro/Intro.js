@@ -1,7 +1,7 @@
 import './Intro.css';
 
 import imageDesktop from '../../../assets/img/intro-desktop.png';
-import imageMobile from '../../../assets/img/intro-mobile.png';
+import imageMobile from '../../../assets/img/intro-desktop.png';
 
 import iconGithub from '../../../assets/icon/github.svg';
 import iconItchio from '../../../assets/icon/itchio.svg';
