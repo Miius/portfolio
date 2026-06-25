@@ -45,11 +45,11 @@ const About = () => {
                         </div>
                         <div className="skills-about">
                             <span className="skill-tag">Unity (2D / 3D)</span>
+                            <span className="skill-tag">UX Design</span>
+                            <span className="skill-tag">Web Dev</span>
                             <span className="skill-tag">C#</span>
-                            <span className="skill-tag">UX para jogos</span>
-                            <span className="skill-tag">UI & Animações</span>
+                            <span className="skill-tag">HTML · CSS · JavaScript </span>
                             <span className="skill-tag">Game Feel & Feedbacks</span>
-                            <span className="skill-tag">Game Design</span>
                         </div>
                     </div>
                 </div>
