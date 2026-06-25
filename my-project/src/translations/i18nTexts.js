@@ -74,7 +74,7 @@ const i18nTexts = {
         Project_Header: 'Projects',
         Contact_Header: 'Contact',
 
-        TextProfession_Intro: 'UNITY GAME DEVELOPER · UX',
+        TextProfession_Intro: 'UNITY GAME DEVELOPER · UX DESIGN',
         TextPresentation_Intro: 'Hello! I’m Marielle Fidelis',
         TextProfile_Intro: 'I’m a Unity Developer with 4+ years of experience creating games and interactive experiences for PC, mobile, and web. I work from prototype to final delivery, combining development, UX Design, and polish to create clearer, more responsive, and enjoyable interactions.',
         TextProfile_Intro_Extra: 'Currently working as a Mid-Level Unity Developer and pursuing a Postgraduate degree in UX Engineering. Want to know more? Check out my resume.',
